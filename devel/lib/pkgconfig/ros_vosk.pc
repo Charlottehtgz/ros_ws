@@ -1,0 +1,8 @@
+prefix=/root/ros_ws/devel
+
+Name: ros_vosk
+Description: Description of ros_vosk
+Version: 2.1.21
+Cflags: -I/root/ros_ws/devel/include
+Libs: -L${prefix}/lib 
+Requires: rospy std_msgs message_runtime

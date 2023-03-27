@@ -1,0 +1,15 @@
+# Hashes of file build rules.
+b176f56dc433d02c01382506cdffac26 /root/ros_ws/devel/include/ros_vosk/speech_recognition.h
+555ffa3e6633f6f37da7e45b27b31756 /root/ros_ws/devel/lib/python3/dist-packages/ros_vosk/msg/__init__.py
+8fc93347a2c18adf65ddf8d73432fe2a /root/ros_ws/devel/lib/python3/dist-packages/ros_vosk/msg/_speech_recognition.py
+24c0ff0949a9c65792b387650e11e8c3 /root/ros_ws/devel/share/common-lisp/ros/ros_vosk/msg/speech_recognition.lisp
+391752dc5f6274a8c970a3b707347ba3 /root/ros_ws/devel/share/gennodejs/ros/ros_vosk/msg/speech_recognition.js
+4bf7da924b0ed3f1af81713c9c68b7c5 /root/ros_ws/devel/share/roseus/ros/ros_vosk/manifest.l
+800f75ab92a3f7783dc6bf1aa6d27dff /root/ros_ws/devel/share/roseus/ros/ros_vosk/msg/speech_recognition.l
+f30f9f7dfe838f49a937a885eb9f3aba CMakeFiles/clean_test_results
+98b73f81c8d21661b3f6565cb9a73bd0 ros-vosk/CMakeFiles/_ros_vosk_generate_messages_check_deps_speech_recognition
+0cae9088a5d7d766c29a96a164a79006 ros-vosk/CMakeFiles/ros_vosk_generate_messages_cpp
+0cae9088a5d7d766c29a96a164a79006 ros-vosk/CMakeFiles/ros_vosk_generate_messages_eus
+0cae9088a5d7d766c29a96a164a79006 ros-vosk/CMakeFiles/ros_vosk_generate_messages_lisp
+0cae9088a5d7d766c29a96a164a79006 ros-vosk/CMakeFiles/ros_vosk_generate_messages_nodejs
+0cae9088a5d7d766c29a96a164a79006 ros-vosk/CMakeFiles/ros_vosk_generate_messages_py
