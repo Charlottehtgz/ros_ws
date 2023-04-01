@@ -9,9 +9,14 @@ This is based on https://github.com/alphacep/ros-vosk.
 Alternatively, if use Docker, simply: 
 
 ```python
-docker pull sarahzhang991105/speechfinal.
+docker pull sarahzhang991105/speechfinal
+
+docker run --network host --name containername -it sarahzhang991105/speechfinal
 
 ```
+
+
+
 
 This workspace is in the /root repository.
 
